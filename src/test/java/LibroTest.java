@@ -17,4 +17,4 @@ public class LibroTest {
         assertThrows(IllegalStateException.class, libro::prestar);
     }
 }
- 
+ //-- IGNORE ---
